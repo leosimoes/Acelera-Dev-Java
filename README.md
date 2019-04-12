@@ -1,5 +1,5 @@
 # Acelera-Dev-Java
-Desafios realizado durando a AceleraDev Java da Codenation em Março/Abril de 2019
+Desafios realizados durante a AceleraDev Java da CodeNation em Março/Abril de 2019
 
 0 – Jogadores de um Time de Futebol
 
